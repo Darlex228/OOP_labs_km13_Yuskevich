@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.fpm.di.example.Example" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-20T08:57:38" hostname="DESKTOP-BAUJJ9L" time="0.015">
+  <properties/>
+  <testcase name="MouseisJerry" classname="org.fpm.di.example.Example" time="0.009"/>
+  <testcase name="FamilyTest" classname="org.fpm.di.example.Example" time="0.003"/>
+  <testcase name="sameTomBelt" classname="org.fpm.di.example.Example" time="0.0"/>
+  <testcase name="shouldInjectSingleton" classname="org.fpm.di.example.Example" time="0.001"/>
+  <testcase name="shouldInjectPrototype" classname="org.fpm.di.example.Example" time="0.001"/>
+  <testcase name="CatisTom" classname="org.fpm.di.example.Example" time="0.0"/>
+  <testcase name="shouldBuildInjectionGraph" classname="org.fpm.di.example.Example" time="0.0"/>
+  <testcase name="shouldBuildInjectDependencies" classname="org.fpm.di.example.Example" time="0.001"/>
+  <testcase name="differentBelts" classname="org.fpm.di.example.Example" time="0.0"/>
+  <testcase name="Only1TomandJerry" classname="org.fpm.di.example.Example" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
